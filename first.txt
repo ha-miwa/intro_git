@@ -3,3 +3,7 @@ Helloo Word!
 git add
 
 こんにちは
+
+git diff
+
+やっほー
